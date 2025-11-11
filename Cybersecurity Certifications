@@ -1,19 +1,30 @@
 # 📜 СЕРТИФИКАТЫ И КВАЛИФИКАЦИИ
 
-## Cybersecurity Certifications
-- [ ] OSCP (в процессе)
-- [ ] CEH (планирую)
-- [ ] Security+
+## 🎯 SKILLS MATRIX 2025
 
-## Пройденные курсы
-- [HackTheBox] Cyber Threat Intelligence
-- [TryHackMe] MITRE ATT&CK Framework
-- [Stepik] Основы кибербезопасности
+### Threat Intelligence & OSINT
+| Навык | Уровень | Подтверждение | Статус |
+|-------|---------|---------------|---------|
+| **APT Analysis** | ★★★★☆ | Phantom Taurus Investigation | ✅ Завершено |
+| **OSINT** | ★★★★☆ | Identity Attribution | ✅ Завершено |
+| **IOC Analysis** | ★★★★☆ | SHA256/IP Analysis | ✅ Завершено |
+| **MITRE ATT&CK** | ★★★★☆ | TTP Mapping | ✅ Завершено |
 
-## Skills Matrix
+### Technical Skills
+| Навык | Уровень | Подтверждение | Статус |
+|-------|---------|---------------|---------|
+| **Malware Analysis** | ★★★☆☆ | NET-STAR Platform | ✅ Завершено |
+| **Network Forensics** | ★★★☆☆ | C2 Infrastructure | ✅ Завершено |
+| **YARA Rules** | ★★★☆☆ | Custom Detection | 🔄 В процессе |
 
-Навык	Уровень	Подтверждение
-Threat Intelligence	★★★★☆	Этот репозиторий
-OSINT	★★★★☆	Phantom Taurus расследование
-MITRE ATT&CK	★★★★☆	Детальная матрица ниже
-IOC Analysis	★★★★☆	Работа с индикаторами
+### Tools & Platforms
+| Навык | Уровень | Подтверждение |
+|-------|---------|---------------|
+| **VirusTotal** | ★★★★☆ | IOC Verification |
+| **AlienVault OTX** | ★★★☆☆ | Threat Intelligence |
+| **Shodan** | ★★★☆☆ | Infrastructure Scan |
+| **GitHub** | ★★★★☆ | Investigation Documentation |
+
+## 🏆 ВИРТУАЛЬНЫЕ СЕРТИФИКАТЫ
+
+### Phantom Taurus Investigation Certificate
