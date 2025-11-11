@@ -38,6 +38,15 @@
 - `AssemblyExecuter V1` - базовый загрузчик .NET сборок  
 - `AssemblyExecuter V2` - улучшенная версия с обходом защиты
 
+/PHANTOM-TAURUS---APT--/
+├── 📄 README.md (главный отчёт)
+├── 📊 iocs.txt (индикаторы компрометации)
+├── 🎯 mitre-detailed.md (детальная матрица MITRE)
+├── 🛡️ detection-recommendations.md (правила детектирования)
+├── 📜 certificates/
+│ └── README.md (сертификаты и матрица навыков)
+└── 🔍 evidence/ (доказательства - в будущем)
+ 
 **Дополнительные инструменты:**
 ```bash
 Mimikatz, Htran, Yasso, Impacket, China Chopper, Gh0st RAT,cybersecurity
